@@ -1,5 +1,5 @@
 # HSTU Hall of Questions (HSTU HQ)
-A web application that performs advanced searching, accepts requests, and archives the questions that previously appeared in the academic exams taken at HSTU.
+A web application that performs operations such as advanced searching, accepting requests, and archiving the questions that previously appeared in the academic exams taken at HSTU.
 
 
 Tools: PHP, MySQL, HTML, CSS, JavaScript
